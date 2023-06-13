@@ -1,0 +1,10 @@
+* trivial-documentation
+
+Scrape on-line documentation out of a running Lisp image
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eugeneia/trivial-documentation.git   |
+| commit  | e71e7cf  |
+| systems | trivial-documentation |
+|---------+-------------------------------------------|
+
